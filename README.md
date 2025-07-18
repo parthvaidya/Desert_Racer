@@ -38,6 +38,3 @@ Simple Controls using W A S D.
 # Credits:
 The game is inspired and made with the "Unreal Engine 2D: Make Your Epic 2D Games Using C++" Udemy Course Projects.
 
-
-
-# Credits:
